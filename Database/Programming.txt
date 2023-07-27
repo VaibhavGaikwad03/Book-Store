@@ -1,0 +1,11 @@
+50001     The Pragmatic Programmer                Andrew Hunt                   699
+50002     Clean Code                              Robert C Martin               599
+50003     Effective Modern C++                    Scott Meyers                  399
+50004     JavaScript: The Good Parts              Douglas Crockford             359
+50005     Python Crash Course                     Eric Matthes                  255
+50006     Head First Design Patterns              Eric Freeman                  369
+50007     Introduction to Algorithms              Thomas H. Cormen              799
+50008     The Art of Computer Programming         Donald E. Knuth               659
+50009     Design Patterns                         Erich Gamma                   499
+50010     Java: A Beginner's Guide                Herbert Schildt               569
+50011     Learning PHP, MySQL & JavaScript        Robin Nixon                   365
