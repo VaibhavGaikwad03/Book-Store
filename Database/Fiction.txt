@@ -1,0 +1,11 @@
+30001     Goshta Tashi Gamtichi                   Sunil Gangopadhyay            99
+30002     Vapurza                                 P. L. Deshpande               360
+30003     Rajmarg                                 Vishwas Patil                 439
+30004     Vishaka                                 Dr. V. S. Khandekar           321
+30005     Raau                                    N. S. Inamdar                 623
+30006     Kosala                                  Bhalchandra Nemade            215
+30007     Katran                                  Anand Yadav                   632
+30008     Changuna                                Laxman Gaikwad                425
+30009     Tya Varshi                              Vinda Karandikar              299
+30010     Duniyadari                              Suhas Shirvalkar              199
+30011     Aamhi Jaato Amuchya Gava                Vyankatesh Madgulkar          459
