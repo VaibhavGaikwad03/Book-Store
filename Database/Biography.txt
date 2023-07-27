@@ -1,0 +1,11 @@
+20001     Shrimanyogi                             Ranjit Desai                  599
+20002     Swarajya Rakshak Sambhaji               Vishwas Patil                 499
+20003     Raja Shivchatrapati                     Babasaheb Purandare           495
+20004     Goshti Chakra                           Prabhakar Pendharkar          198
+20005     Mi Nathuram Godse Boltoy                Gopal Godse                   195
+20006     Majhi Janmathep                         Vasant Purushottam Kale       259
+20007     Gandhi Ani Nathuram Godse               V. T. Bhalerao                450
+20008     Aapala Shahaji                          Ranjit Desai                  395
+20009     Smruti Chitre                           Prabhakar Pendharkar          289
+20010     Ek Hoti Marathi                         Veena Gavankar                123
+20011     Pimpalpan                               Anil Awachat                  165
