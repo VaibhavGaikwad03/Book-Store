@@ -1,0 +1,11 @@
+70001     Adrishya Vishwa                         Dr. Anil Awachat              259
+70002     Vayuputra                               Vishwas Patil                 450
+70003     Mrityucha Sainik                        Madhu Rye                     350
+70004     Yayavar                                 Jayant Narlikar               120
+70005     Kumpanyachi Goshta                      Ramdas Bhatkal                320
+70006     Bhagavan Saptarshi                      Dr. Nitin Waghmare            510
+70007     Pratishodh                              Laxman Londhe                 420
+70008     Antarikshatil Kahi Kshan                Bal Phondke                   310
+70009     Vidyut                                  Jayant Narlikar               459
+70010     Eka Dnyaaneshwari                       Shridhar Tilve                369
+70011     Andharachya Parambya                    Dr. Anil Awachat              299
