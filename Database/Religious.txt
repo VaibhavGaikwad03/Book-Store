@@ -1,0 +1,11 @@
+60001     Dnyaneshwari                            Sant Dnyaneshwar              259
+60002     Eknathi Bhagwat                         Sant Eknath                   360
+60003     Guru Charitra                           Saraswati Gangadhar           459
+60004     Dasbodh                                 Samarth Ramdas                399
+60005     Amrut Laya                              Sadguru Siddharameshwar       259
+60006     Tukaram Gatha                           Sant Tukaram                  365
+60007     Ramayan                                 Valmiki                       450
+60008     Mahabharat                              Ved Vyasa                     500
+60009     Srimad Bhagavad Gita                    Ved Vyasa                     150
+60010     Sai Satcharitra                         Hemadpant                     329
+60011     Gurucharitra                            Acharya Bharadwaja            285
