@@ -1,0 +1,11 @@
+40001     Agatha Christiechya Rahasyakatha        Agatha Christie               249
+40002     Mamalatdar Loharancha                   P. L. Deshpande               299
+40003     Mumbai Dinank                           Dr. Anil Awachat              199
+40004     Katrajcha Rakhwala                      Shrinivas R. Gokhale          249
+40005     Aabhaneri                               Anil Awachat                  199
+40006     Bhrambhram                              Vishwas Patil                 179
+40007     Murder of Exile                         Vinayak Damodar Savarkar      79
+40008     Murder in Mahim                         Jerry Pinto                   399
+40009     Devil's Disciple                        Salil Desai                   349
+40010     Ek Tha Raja Ek Thi Rani                 Rajeshree                     129
+40011     Shukratara                              Milind Bokil                  149
